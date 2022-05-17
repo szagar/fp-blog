@@ -127,4 +127,6 @@ exclude:
 
 collections:
   strategies:
+    output: true
   portfolios:
+    output: true
