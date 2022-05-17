@@ -124,3 +124,7 @@ feed:
   
 exclude:
   - settings.ini
+
+collections:
+  strategies:
+  portfolios:
