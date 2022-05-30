@@ -2,11 +2,11 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://szagar.github.io/fp-blog/portfolios/portf_001.html</loc>
-<lastmod>2022-05-30T06:26:02-05:00</lastmod>
+<lastmod>2022-05-30T06:49:48-05:00</lastmod>
 </url>
 <url>
 <loc>https://szagar.github.io/fp-blog/portfolios/portf_002.html</loc>
-<lastmod>2022-05-30T06:26:02-05:00</lastmod>
+<lastmod>2022-05-30T06:49:48-05:00</lastmod>
 </url>
 <url>
 <loc>https://szagar.github.io/fp-blog/markdown/2020/01/14/test-markdown-post.html</loc>
@@ -37,16 +37,20 @@
 <lastmod>2022-05-29T00:00:00-05:00</lastmod>
 </url>
 <url>
+<loc>https://szagar.github.io/fp-blog/notes/2022/05/29/ToDo.html</loc>
+<lastmod>2022-05-29T00:00:00-05:00</lastmod>
+</url>
+<url>
 <loc>https://szagar.github.io/fp-blog/2022/05/29/house_project_ideas.html</loc>
 <lastmod>2022-05-29T00:00:00-05:00</lastmod>
 </url>
 <url>
 <loc>https://szagar.github.io/fp-blog/strategies/strat_001.html</loc>
-<lastmod>2022-05-30T06:26:02-05:00</lastmod>
+<lastmod>2022-05-30T06:49:48-05:00</lastmod>
 </url>
 <url>
 <loc>https://szagar.github.io/fp-blog/strategies/strat_002.html</loc>
-<lastmod>2022-05-30T06:26:02-05:00</lastmod>
+<lastmod>2022-05-30T06:49:48-05:00</lastmod>
 </url>
 <url>
 <loc>https://szagar.github.io/fp-blog/about/</loc>
