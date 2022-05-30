@@ -1,0 +1,19 @@
+{% unless page.hide_comments %}
+  <script src="https://utteranc.es/client.js"
+          repo="stex/stex.codes"
+          issue-term="{% if page.comment_issue_term %}{{ page.comment_issue_term }}{% else %}url{% endif %}"
+          label="comment"
+          theme="github-dark"
+          crossorigin="anonymous"
+          async
+  ></script>
+{% endunless %}
+
+
+ <script src="https://utteranc.es/client.js"
+         repo="ljvmiranda921/comments.ljvmiranda921.github.io"
+         issue-term="title"
+         theme="github-light"
+         crossorigin="anonymous"
+         async>
+ </script>
