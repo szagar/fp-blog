@@ -25,7 +25,7 @@
     
         ,"post2": {
             "title": "Bookmarks",
-            "content": "### Watch list * [talk python git](https://www.youtube.com/watch?v=7sxUu-tYcIA) ### Reading list * [How to setup google domain for github pages](https://dev.to/trentyang/how-to-setup-google-domain-for-github-pages-1p58)### Blogs * [bta](https://community.bettertraderacademy.com/home) * [Automation Panda](https://automationpanda.com/)### Articles //* [Mermaid_ Create diagrams quickly and effortlessly](https://szagar.github.io/assets/mermaid_create_diagrams_quickly_and_effortlessly.pdf) ### Reference * jekyll - [docs](https://jekyllrb.com/docs/) - [minima/README.md](https://github.com/jekyll/minima/blob/master/README.md)",
+            "content": "### Watch list * [talk python git](https://www.youtube.com/watch?v=7sxUu-tYcIA) Reading list . How to setup google domain for github pages | . ### Blogs * [bta](https://community.bettertraderacademy.com/home) * [Automation Panda](https://automationpanda.com/)### Articles //* [Mermaid_ Create diagrams quickly and effortlessly](https://szagar.github.io/assets/mermaid_create_diagrams_quickly_and_effortlessly.pdf) ### Reference * jekyll - [docs](https://jekyllrb.com/docs/) - [minima/README.md](https://github.com/jekyll/minima/blob/master/README.md)",
             "url": "https://szagar.github.io/fp-blog/fastpages/jupyter/2022/05/29/Bookmarks.html",
             "relUrl": "/fastpages/jupyter/2022/05/29/Bookmarks.html",
             "date": " • May 29, 2022"
