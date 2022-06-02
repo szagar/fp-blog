@@ -2,6 +2,28 @@
   
     
         "post0": {
+            "title": "House_project_ideas",
+            "content": ". .",
+            "url": "https://szagar.github.io/fp-blog/2022/06/01/house_project_ideas.html",
+            "relUrl": "/2022/06/01/house_project_ideas.html",
+            "date": " • Jun 1, 2022"
+        }
+        
+    
+  
+    
+        ,"post1": {
+            "title": "Doc1",
+            "content": "",
+            "url": "https://szagar.github.io/fp-blog/2022/06/01/Doc1.html",
+            "relUrl": "/2022/06/01/Doc1.html",
+            "date": " • Jun 1, 2022"
+        }
+        
+    
+  
+    
+        ,"post2": {
             "title": "Pandas Troubleshooting",
             "content": "My stuff . cv | fp-blog | github:fp-blog | github:cv | . Watch list . talk python git | . Reading list . How to setup google domain for github pages | . Blogs . bta | Automation Panda | Lj Miranda - data scientist blog setup Jekyll comments | also | . | . Articles . Mermaid Create diagrams quickly and effortlessly 1 | Mermaid Create diagrams quickly and effortlessly 2 | . ### Articles //* [Mermaid_ Create diagrams quickly and effortlessly](https://szagar.github.io/assets/mermaid_create_diagrams_quickly_and_effortlessly.pdf) Reference . jekyll docs | minima/README.md | . | . Systematic firms . Two Sigma | Renaissance | Bridgewater | D E Shaw &amp; Co | Marathon Asset Management | AQR Capital Management | Winton | .",
             "url": "https://szagar.github.io/fp-blog/pandas/python/2022/05/31/pandas.html",
@@ -12,7 +34,7 @@
     
   
     
-        ,"post1": {
+        ,"post3": {
             "title": "Dev Tools",
             "content": "Python dev tools . json to pydantic | .",
             "url": "https://szagar.github.io/fp-blog/development/2022/05/31/dev_tools.html",
@@ -23,9 +45,9 @@
     
   
     
-        ,"post2": {
+        ,"post4": {
             "title": "Markets",
-            "content": "My stuff . TY has .D, 720-1400 | 24hr, 200-1600, | 120m, 240m | . | US 700-1600, 200-1600 | 80m | protective stop @ 2000 | . | .",
+            "content": "My stuff . TY has .D, 720-1400 | 24hr, 200-1600, | 120m, 240m | . | US 700-1600, 200-1600 | 80m | protective stop @ 2000 | . | . Easy . JPY | .",
             "url": "https://szagar.github.io/fp-blog/marketes/dnp/2022/05/31/Markets.html",
             "relUrl": "/marketes/dnp/2022/05/31/Markets.html",
             "date": " • May 31, 2022"
@@ -34,31 +56,9 @@
     
   
     
-        ,"post3": {
-            "title": "House_project_ideas",
-            "content": ". .",
-            "url": "https://szagar.github.io/fp-blog/2022/05/30/house_project_ideas.html",
-            "relUrl": "/2022/05/30/house_project_ideas.html",
-            "date": " • May 30, 2022"
-        }
-        
-    
-  
-    
-        ,"post4": {
-            "title": "Doc1",
-            "content": "",
-            "url": "https://szagar.github.io/fp-blog/2022/05/30/Doc1.html",
-            "relUrl": "/2022/05/30/Doc1.html",
-            "date": " • May 30, 2022"
-        }
-        
-    
-  
-    
         ,"post5": {
             "title": "Bookmarks",
-            "content": "My stuff . cv | fp-blog | github:fp-blog | github:cv | . Watch list . talk python git | . Reading list . How to setup google domain for github pages | . Blogs . bta | Automation Panda | Lj Miranda - data scientist blog setup | Arjan Codes | . Articles . Mermaid Create diagrams quickly and effortlessly 1 | Mermaid Create diagrams quickly and effortlessly 2 link | . ### Articles //* [Mermaid_ Create diagrams quickly and effortlessly](https://szagar.github.io/assets/mermaid_create_diagrams_quickly_and_effortlessly.pdf) Reference . jekyll docs | minima/README.md | Collections | . | EasyLanguage Object Reference | . Systematic firms . Two Sigma | Renaissance | Bridgewater | D E Shaw &amp; Co | Marathon Asset Management | AQR Capital Management | Winton | Cow Harbor Systems | .",
+            "content": "My stuff . cv | fp-blog | github:fp-blog | github:cv | . Watch list . talk python git | . Reading list . How to setup google domain for github pages | . Blogs . bta | Automation Panda | Lj Miranda - data scientist blog setup | Arjan Codes | . Articles . Pandas, loading csv | Pandas, time series | Mermaid Create diagrams quickly and effortlessly 1 | Mermaid Create diagrams quickly and effortlessly 2 link | . ### Articles //* [Mermaid_ Create diagrams quickly and effortlessly](https://szagar.github.io/assets/mermaid_create_diagrams_quickly_and_effortlessly.pdf) Reference . jekyll docs | minima/README.md | Collections | . | EasyLanguage Object Reference | . Systematic firms . Two Sigma | Renaissance | Bridgewater | D E Shaw &amp; Co | Marathon Asset Management | AQR Capital Management | Winton | Cow Harbor Systems | .",
             "url": "https://szagar.github.io/fp-blog/fastpages/jupyter/2022/05/30/Bookmarks.html",
             "relUrl": "/fastpages/jupyter/2022/05/30/Bookmarks.html",
             "date": " • May 30, 2022"
@@ -69,7 +69,7 @@
     
         ,"post6": {
             "title": "ToDo",
-            "content": "zts framwork . [ ] time segments | [ ] dnp on mongodb | [ ] python monte carlo | [ ] run dnp with short re-optimization periods | [ ] add strategies to Striker | . house . [ ] time segments | [ ] dnp on mongodb | [ ] python monte carlo | [ ] run dnp with short re-optimization periods | [ ] add strategies to Striker | .",
+            "content": "zts framwork . [x] time segments | [ ] add strategies to Striker | [ ] minute bars db | [ ] mae/mfe w/ minute bars db | [ ] python monte carlo | [ ] run dnp with short re-optimization periods | [ ] dnp on mongodb | . house . [ ] basement stairs | [ ] sprinklers | [ ] basement storage area | [ ] organize garage | [ ] organize work area | [ ] backyard spigot | [ ] pond waterfall | [ ] pond filter | .",
             "url": "https://szagar.github.io/fp-blog/notes/2022/05/29/ToDo.html",
             "relUrl": "/notes/2022/05/29/ToDo.html",
             "date": " • May 29, 2022"
