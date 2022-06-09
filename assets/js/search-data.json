@@ -3,7 +3,7 @@
     
         "post0": {
             "title": "Interview Preperation",
-            "content": "Dynamic Programming . leetcode | . nbdev . setup repo via template | clone repo | create venv | add kernel to jupyter | in jupyter terminal: pip install nbdev | edit settings.ini # lib_name = your_project_name # repo_name = name of github repo # user = your_github_username # description = A description of your project # keywords = some keywords # author = Your Name # author_email = email@example.com # copyright = Your Name or Company Name # branch = The default branch of your GitHub repo (usually either master or main) . | install git hooks, from project folder: nbdev_install_git_hooks | start jupyter lab, open 00_core.ipynb | add code, examples, test and markdown headings | Build lib (create the python module): nbdev_build_lib | create your documentation home page and README.md Edit index.ipynb edit import statement | edit install comment | add some examples | . | Build docs nbdev_build_docs | . | notes: . if notebook conflicts appear, run: nbdev_fix_merge filename.ipynb | if using a subdirectory to contain .ipynb files (nbs_path set to be anything other than the project root) either install these modules locally, as their relative import will take you beyond the top-level package, which can be done by running pip install -e . in the project root, to install the modules to your environment in editable mode. | or make a simlink in your notebook folder to the library folder, which can be done by running ln -s lib_path lib_name (adjust lib_path and lib_name to your use case). | . | .",
+            "content": "Dynamic Programming . leetcode | .",
             "url": "https://szagar.github.io/fp-blog/job/interview/notes/2022/06/09/interview_prep.html",
             "relUrl": "/job/interview/notes/2022/06/09/interview_prep.html",
             "date": " • Jun 9, 2022"
@@ -58,7 +58,7 @@
     
         ,"post5": {
             "title": "Dev Notes",
-            "content": "Articles . strategy performance report | .",
+            "content": "Articles . strategy performance report | . BTA . BTA Community | BTA Portal | Research: COT Report Analysis.ipynb | .",
             "url": "https://szagar.github.io/fp-blog/development/notes/2022/06/02/dev_notes.html",
             "relUrl": "/development/notes/2022/06/02/dev_notes.html",
             "date": " • Jun 2, 2022"
@@ -69,7 +69,7 @@
     
         ,"post6": {
             "title": "Pandas Troubleshooting",
-            "content": "",
+            "content": "*dtype warning .",
             "url": "https://szagar.github.io/fp-blog/pandas/python/2022/05/31/pandas.html",
             "relUrl": "/pandas/python/2022/05/31/pandas.html",
             "date": " • May 31, 2022"
@@ -80,7 +80,7 @@
     
         ,"post7": {
             "title": "Dev Tools",
-            "content": "Python dev tools . json to pydantic | . nbdev . github page | install: pip install nbdev | Getting Started tutorial | example | docs | release notes | video | . | Play-by-play setup repo via template note: repo name will be used as Python project name, therefore lowercase w/ underscores | . | clone repo | . | . fastdoc . notebooks -&gt; books .",
+            "content": "intra-day-vs-trade-close-to-close-drawdown | . Repos . fp-blog | . Python dev tools . json to pydantic | . nbdev . github page | install: pip install nbdev | Getting Started tutorial | example | docs | release notes | video | . | Play-by-play setup repo via template note: repo name will be used as Python project name, therefore lowercase w/ underscores | . | clone repo | . | . fastdoc . notebooks -&gt; books .",
             "url": "https://szagar.github.io/fp-blog/development/2022/05/31/dev_tools.html",
             "relUrl": "/development/2022/05/31/dev_tools.html",
             "date": " • May 31, 2022"
